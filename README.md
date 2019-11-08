@@ -1,6 +1,7 @@
 
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
 
-## 🏝️ Build a Weather App using the OpenWeatherMap API
+## Build a Weather App using the OpenWeatherMap API
 
 
 Here's an exciting challenge: You'll be building a small weather app, using your newfound skills with APIs!
