@@ -6,8 +6,6 @@
 
 Here's an exciting challenge: You'll be building a small weather app, using your newfound skills with APIs!
 
-Here's an exciting challenge: You'll be building a small weather app, using your newfound skills with APIs!
-
 ***
 
 ## Reading Documentation
