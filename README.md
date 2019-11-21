@@ -34,7 +34,7 @@ For this lab you'll be using the Open Weather Data API. In order to use it, plea
 4. Open Postman or Insomnia to check out the data you're working with and to verify that your api key works. Make a GET requrest to the following URL in Postman, adding your API key to the end.
 
 ```
-http://api.openweathermap.org/data/2.5/weather?q=10025,us?units=imperial&appid=[PUT YOUR API KEY HERE]
+http://api.openweathermap.org/data/2.5/weather?q=10025,us&units=imperial&appid=[PUT YOUR API KEY HERE]
 ```
 
 <img src="./assets/Screen_Shot_2019-01-03_at_10.54.17_AM.png">
