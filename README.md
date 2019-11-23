@@ -269,11 +269,11 @@ Following this format:
 ```js
 'http://api.openweathermap.org/data/2.5/weather?q=City&units=imperial&appid=yourAppKey'
 
-var weatherUrl = "http://api.openweathermap.org/data/2.5/weather?q=";
+const weatherUrl = "http://api.openweathermap.org/data/2.5/weather?q=";
 
 
 // Get an api key: http://openweathermap.org/appid#get
-var key = 'Your key here';
+const key = 'Your key here';
 ```
 
 
