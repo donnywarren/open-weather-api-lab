@@ -1,9 +1,8 @@
 
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
 
-## 🏝️ Build a Weather App using the OpenWeatherMap API
+## Build a Weather App using the OpenWeatherMap API
 
-
-Here's an exciting challenge: You'll be building a small weather app, using your newfound skills with APIs!
 
 Here's an exciting challenge: You'll be building a small weather app, using your newfound skills with APIs!
 
@@ -35,7 +34,7 @@ For this lab you'll be using the Open Weather Data API. In order to use it, plea
 4. Open Postman or Insomnia to check out the data you're working with and to verify that your api key works. Make a GET requrest to the following URL in Postman, adding your API key to the end.
 
 ```
-http://api.openweathermap.org/data/2.5/weather?q=10025,us?units=imperial&appid=[PUT YOUR API KEY HERE]
+http://api.openweathermap.org/data/2.5/weather?q=10025,us&units=imperial&appid=[PUT YOUR API KEY HERE]
 ```
 
 <img src="./assets/Screen_Shot_2019-01-03_at_10.54.17_AM.png">
@@ -270,11 +269,11 @@ Following this format:
 ```js
 'http://api.openweathermap.org/data/2.5/weather?q=City&units=imperial&appid=yourAppKey'
 
-var weatherUrl = "http://api.openweathermap.org/data/2.5/weather?q=";
+const weatherUrl = "http://api.openweathermap.org/data/2.5/weather?q=";
 
 
 // Get an api key: http://openweathermap.org/appid#get
-var key = 'Your key here';
+const key = 'Your key here';
 ```
 
 
